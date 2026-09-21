@@ -3,6 +3,10 @@
 A responsive and user-friendly Task Manager application built with React.js.  
 The application helps users create, organize, track, and manage their daily tasks with features such as priority management, categories, due dates, search, filtering, local storage, dark mode, progress tracking, and toast notifications.
 
+### 🌐 Live Demo
+
+Check out the live application here: [Live Demo](https://codsoft-tasksno-2-wo2c.onrender.com)
+
 ### 📝 Task Management
 - Create new tasks
 - Edit existing tasks
